@@ -1,6 +1,6 @@
 {
   "name": "react-native-drawer-layout-polyfill",
-  "version": "1.2.0",
+  "version": "quesbook-v1.2.0",
   "description": "A polyfill for React Natives DrawerLayoutAndroid",
   "main": "dist/index.js",
   "scripts": {
@@ -78,7 +78,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "react-native-drawer-layout": "1.2.0"
+    "react-native-drawer-layout": "git://github.com/quesbook-libs/react-native-drawer-layout.git#quesbook-1.2.0"
   },
   "peerDependencies": {
     "react-native": "*",
