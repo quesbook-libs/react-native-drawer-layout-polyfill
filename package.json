@@ -78,7 +78,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "react-native-drawer-layout": "git://github.com/quesbook-libs/react-native-drawer-layout.git#quesbook-1.2.0"
+    "react-native-drawer-layout": "git://github.com/quesbook-libs/react-native-drawer-layout.git#1.2.0-quesbook"
   },
   "peerDependencies": {
     "react-native": "*",
