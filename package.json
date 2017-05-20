@@ -1,6 +1,6 @@
 {
   "name": "react-native-drawer-layout-polyfill",
-  "version": "quesbook-v1.2.0",
+  "version": "v1.2.0-quesbook",
   "description": "A polyfill for React Natives DrawerLayoutAndroid",
   "main": "dist/index.js",
   "scripts": {
